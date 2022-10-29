@@ -18,4 +18,7 @@ Logbook for Task1:
   server to host it?
   
   After searching, I found i had to run this thing called an X server, which is not native on Windows nor WSL (AHH). I downloaded this X server app called Xming.
-  Xming ran with success (YES) and I was correctly able to open gtkwave but that gave rise to another problem
+  Xming ran with success (YES) and I was correctly able to open gtkwave and after stumbling through the instructions manged to find the correct waveforms (YEAAAHHH)
+  That took me way too long.
+  
+  Will start task 2 next lab session, probably will have to skip tasks 3 and 4 until we get individual vBuddys
