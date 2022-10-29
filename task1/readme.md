@@ -13,4 +13,10 @@ Logbook for Task1:
   Met my lab prtner Troy, he got the vBuddy for us
   
 29/10:
-  Part 6 is weird, I was under the impression we had installed everything we needed in Labo but apparently not?
+  Part 6 is weird, I was under the impression we had installed everything we needed in Lab0 but apparently not? When trying to open gtkwave, nut it returned this error
+  **Could not initialize GTK!  Is DISPLAY env var/xhost set?** and spat out a bunch of commands. I think this means i have gtkwave installed but apparently i need a
+  server to host it?
+  
+  After searching, I found i had to run this thing called an X server, which is not native on Windows nor WSL (AHH). I downloaded this X server app called Xming.
+  
+  
