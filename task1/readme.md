@@ -22,3 +22,6 @@ Logbook for Task1:
   That took me way too long.
   
   Will start task 2 next lab session, probably will have to skip tasks 3 and 4 until we get individual vBuddys
+  
+03/11:
+  Challenges not completed 
